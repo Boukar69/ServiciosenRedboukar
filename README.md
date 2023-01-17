@@ -1,3 +1,3 @@
 # ServiciosenRedboukar
 Repositorio servicios en red SMR-T
-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
+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
